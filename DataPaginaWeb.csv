@@ -1,0 +1,2 @@
+Nombre,Autor,Readme,Idioma,Lenguajes,Numero de visitas,Fork,Estrellas,Paquetes,Release
+vscode-tilapia,TeamTilapia,TLA+ extension for VS Code  GitHub Includes:  TLA+ syntax highlighting  Contributing All contributions are extremely welcome. Future development We want to explore integrating parts of the VS Code debugger with TLC to show backtraces of failed runs directly in the editor. ,en,TLA. TypeScript. ,7,1,14,No packages published,No releases published
